@@ -1,0 +1,1 @@
+Aplikasi ini dapat dijalankan dengan menggunakan netbeans, dengan menambahkan libary sql jdbc dan menjalankan server sql dengan xampp terima kasih..
